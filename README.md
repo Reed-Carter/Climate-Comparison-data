@@ -9,7 +9,7 @@
 
 ### Technologies Used
 
-* Python (BeautifulSoup)
+* Python (BeautifulSoup, Pandas, Selenium, pyarrow)
 * Airflow (via Docker)
 * Google Cloud Platform (BigQuery, Looker Studio)
 * SQL
