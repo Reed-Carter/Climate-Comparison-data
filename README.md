@@ -1,4 +1,4 @@
-# US Weather Data _(team-week3)_
+# Climate Comparisons
 
 #### By [Reed Carter](https://www.linkedin.com/in/reed-carter/)
 
