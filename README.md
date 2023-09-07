@@ -57,7 +57,7 @@ PYTHON_VERSION=3.7
 CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
 pip install "apache-airflow[async,postgres,google]==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
 ```
-The structure of this repo is currently organized into three separate subdirectories containing each group member's work. For the time being, you can create your own airflow directory in the root of this repository and copy any of our DAGs into it if you are interested in running them for yourself.   
+You can create your own airflow directory in the root of this repository and copy any of our DAGs into it if you are interested in running them for yourself.   
 
 ```bash
 # Make and change to airflow subdirectory
